@@ -1,5 +1,13 @@
 # Automate ML Model Training
 
+## 1) Project Cars Data Analysis:-
+![Photo](assets/Screenshot(163).png)
+
+![Power BI Photo](assets/Screenshot_(32).png)
+
+## 2) Project Hotel Survey Data Analysis:-
+![Power BI Photo](assets/Screenshot_(50).png )
+
 ## Project Overview
 **Automate ML Model Training** is a Streamlit-based web application designed to simplify the process of training and evaluating machine learning models. The application allows users to upload datasets, preprocess data, choose different ML models, and automatically train and evaluate them.
 
